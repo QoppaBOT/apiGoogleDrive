@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "repositorio-223418",
+  "private_key_id": "958fd6f853b95214ac3d5562f3db28127de72945",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQBvcvWvncwskB\nbGdY2pJNZUv6UCIGNpQ5nFZeMltIqAUwCRBRs65rAQEUyMJtP0l833pPIuk/rA7Q\n/A2DOWz1TgGfRF/rza+D7hm04ATpd4CghVi3R6S1I+oY+/kui0WwySpt/oPqSJ9o\nvmr328WKbR1xWxvtVJ97v2c8eSGeVp7k8LvXVxaTJU62nMl7yhQRlBhEFmPdwsz4\ntuoIFo5fiREwbsO1PllXCopokQXyfVH+/D5H6E3TyUQYr9hBVgbLuNYY2y5TIIOY\n0L2ayn5ME741d+40uud50+NjFeLQqijI8Kg/EhWgekqiiwn2DkDFKnI7Cg/2hSk/\nV0TEGa+VAgMBAAECggEAHCdv2Xs2PngnnMdfbqQY5tv4c3EtmapWAedfEl09riX8\nmxVZnbp0DEv/fyDzR2EoVfvSNtb3uxlTNq+A41X99sPO7mTiQoH86MhsYZFsDhjm\np1Lvaya0FkaSY+fo6oazhjXuRc1gwcWAZZGtMncOU39psQduo9PZyHViyHQbEQL+\nVZ5LJjgkvLwIDuvlcBPEqL8wVlXDFGKEmWUK6JJsn/b3c3dc28uPuBss+FgABo+d\nK3GrUhlQ/ilhY/EJcxXRoQW++WIo7snB/61Iu4LPkN/MKJrRmw7H49dfxsF2UEfZ\nR7QjJKq1eO2LVRaXmK0dod/I1jrh+ccwW9mTU36RhQKBgQDrsD2MOiCOp9JbfFc3\nLHXwwkc23YL62V6yNnahnCpG4zlfnR8LEM+yVmZYgn9dlhuhLsivq5UhmbVM5Y96\neAeMBs2A7wW/aiQzv8mUyMK+NLbkZl29+cOiqJJb70Y9669qRmbChzkTDS8yV/DP\ntTyhPf6bEChcA+yyk1Tiild0cwKBgQDh9HaDqAI7xipgIvFPz8ea1Vnz5WAK2qX6\niBgUE4brGuIyZ558rk9v7tiPCr6NVs1kzDG1AR0BRoHFbAfhNm/uAwU2da4m6NS6\ne1oFcOb13vvhvAtMh1gLxuV4ExiMb6ifwWh/kfIsj7k58iuRi21HZGFIZPOIsVLB\nwtxRltfR1wKBgGNW8mozaduXAsQKwZwAwmlLCccnUHi4vAAzkocFkpA0X89cI2R/\nnntVjWfLATIJ/fVPCcl5ca8q4U7bB0Gga9XqXB33IR4P99hUAvwSLnsLLvdP6j0T\nlBDwKlhTnvCkcVhC+jcN1dGg4f6/MEHr6vUvcywagFhgUxjlnoaptrjfAoGAAmgS\nIxDVBUH1DZURsOHrpFCFZr2YqkTt458zcnNKypI8uoC0BWvt2KlYkR1yLhswkNRD\n60OZxXu0wh+GbfWgd458rbnPIwbzzRCnQsuTCidX022nSSdf3rA9nWvGpShDSYBL\n1p/9TlAxjtZvdFthzJLbHmRE273XvcyPgCb1IX0CgYEA6k4CdVBA0IhvinFmfUSh\naeiqZgk7EoTmkEtLobWubOHl5IeIHPR+m2+DZpipzOIakRffwmRKea3dAd/GDmMU\ndYPA4nC4/155lMmJ4KvN075d0tvB0t+YReH+d5iK9rsGD83KRNYESRFsYc0L0pTT\nQTSxsrcEBL53uYWpdZCQsPs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveapi@repositorio-223418.iam.gserviceaccount.com",
+  "client_id": "115953449427203395482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveapi%40repositorio-223418.iam.gserviceaccount.com"
+}
